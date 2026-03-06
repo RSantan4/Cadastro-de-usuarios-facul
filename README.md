@@ -14,10 +14,7 @@ facul/
 │                   ├── util/
 │                   │   └── FileManager.java
 │                   └── Main.java
-├── chat_app/
 ├── data/
-├── .env
-├── .gitignore
 └── README.md
 
 Funcionalidades
